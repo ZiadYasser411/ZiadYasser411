@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">A graduating Computer Science Engineering student from the GUC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadyasser411&label=Profile%20views&color=0e75b6&style=flat" alt="ziadyasser411" /> </p>
-
 - 📫 How to reach me **ziadyasser4111@gmail.com / +201146946777**
 
 <h3 align="left">Connect with me:</h3>
