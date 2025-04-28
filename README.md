@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-yasser-zy411/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ziadyasser4111@gmail.com)
-
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
