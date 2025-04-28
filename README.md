@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Space+Mono+&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-yasser-zy411/) 
