@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Space+Mono+&size=25&pause=1000&color=1FF700&width=435&lines=Hello+there+!;My+name+is+Ziad+Yasser+%3A);I'm+a+CS+Engineering+student;Graduating+this+year+from+GUC+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Space+Mono+&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ziad-yasser-zy411/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziadyasser4111@gmail.com) 
