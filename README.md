@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+There+!%22);%3CMy+name+is+Ziad+Yasser+%3A)%3CI'm+a+graduating+CS+Engineering+student+!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+There+!%22);%3CMy+name+is+Ziad+Yasser+%3A)%3CI'm+a+graduating+CS+Engineering+student+!" alt="Typing SVG" /></a>
 
 - 📫 How to reach me **ziadyasser4111@gmail.com / +201146946777**
 
