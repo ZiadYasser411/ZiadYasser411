@@ -26,5 +26,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-## You can contact me through:
+### You can contact me through:
 Email: ziadyasser4111@gmail.com
