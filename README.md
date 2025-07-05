@@ -27,5 +27,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ## Contact me through:
-![Phone]:+20 1146946777
-![Email]: ziadyasser4111@gmail.com
+Phone:+20 1146946777
+Email: ziadyasser4111@gmail.com
