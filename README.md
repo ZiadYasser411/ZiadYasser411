@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22)](https://git.io/typing-svg)
 
 # 👋 My name is Ziad Yasser, I'm a fresh CS Engineering Graduate from the GUC.
 ## 💻 My Tech Stack:
