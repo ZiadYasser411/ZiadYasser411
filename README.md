@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=23&pause=1000&color=1FF700&width=435&lines=python+-c+%22print('Hello+There+!')%22)](https://git.io/typing-svg)
 
-## 👋 My name is Ziad Yasser, I'm a fresh CS Engineering Graduate from the GUC.
+# 👋 My name is Ziad Yasser, I'm a fresh CS Engineering Graduate from the GUC.
 ## 💻 My Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
@@ -26,6 +26,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-## Contact me through:
-Phone:+20 1146946777
+## You can contact me through:
 Email: ziadyasser4111@gmail.com
